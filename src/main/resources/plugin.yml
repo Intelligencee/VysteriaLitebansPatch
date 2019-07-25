@@ -1,0 +1,6 @@
+name: VysteriaLiteBansPatch
+main: org.vysteria.litebanspatch.LitebansPatch
+author: Intelligence
+version: 1.0
+website: https://www.vysteria.org
+description: Patches the /litebans sqlexec command, which can be used to pull a servers database.
